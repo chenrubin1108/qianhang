@@ -1,0 +1,21 @@
+/* 移动端样式调整 */
+@media (max-width:500px) {
+    
+    .search-form {
+        width: 100%;
+      
+    }
+    .add-site-container {
+        justify-content: center;
+        flex-wrap: wrap;
+        max-width: 100%;
+        display: flex;
+       align-items: center;
+      
+      
+    }
+    .site-box {
+        padding: 5px;
+        text-align:center;
+    }
+}
